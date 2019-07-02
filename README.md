@@ -1,2 +1,2 @@
 # Practice_Projects
-Projects that are primarily done to learn the process
+Projects done to learn the process
